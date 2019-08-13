@@ -18,4 +18,4 @@ const todos = [
 
 const todoJSON = JSON.stringify(todos);
 console.log(todoJSON);
-console.log("something lil different")
+console.log("something lil different");
